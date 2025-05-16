@@ -1,0 +1,10 @@
+[2025-05-16 10:00:33] INFORMACION - Inicio de pruebas del sistema de pagos.
+[2025-05-16 10:00:70] ERROR - Error al procesar transacción con tarjeta vencida.
+[2025-05-16 10:01:26] ADVERTENCIA - Respuesta lenta del servidor de autenticación.
+[2025-05-16 10:01:50] INFORMACION - Prueba de sesión iniciada correctamente.
+[2025-05-16 10:02:30] ERROR - Excepción IndexOutOfBounds en clase TransaccionManager.
+[2025-05-16 10:02:58] ADVERTENCIA - Espacio en disco por debajo del 10%.
+[2025-05-16 10:03:43] INFORMACION - Prueba de reporte de facturación generada exitosamente.
+[2025-05-16 10:04:19] ERROR - Fallo al cargar recursos desde CDN.
+[2025-05-16 10:04:37] INFORMACION - Validación de tokens completada.
+[2025-05-16 10:05:12] ADVERTENCIA - Conexión intermitente con el servidor SMTP.
